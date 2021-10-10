@@ -1,2 +1,2 @@
-# RubyRushFavoriteProgramms
-It's refactored version of programms from RubyRush repo.
+# Notepad
+It's refactored version of programm 'notepad' from RubyRush course.
